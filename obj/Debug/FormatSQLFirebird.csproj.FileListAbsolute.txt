@@ -1,0 +1,9 @@
+C:\Users\logan\Documents\Client Work\SM\WIP stuff\FirebirdSQLFormatter\bin\Debug\FormatSQLFirebird.exe.config
+C:\Users\logan\Documents\Client Work\SM\WIP stuff\FirebirdSQLFormatter\bin\Debug\FormatSQLFirebird.exe
+C:\Users\logan\Documents\Client Work\SM\WIP stuff\FirebirdSQLFormatter\bin\Debug\FormatSQLFirebird.pdb
+C:\Users\logan\Documents\Client Work\SM\WIP stuff\FirebirdSQLFormatter\obj\Debug\FormatSQLFirebird.csprojResolveAssemblyReference.cache
+C:\Users\logan\Documents\Client Work\SM\WIP stuff\FirebirdSQLFormatter\obj\Debug\FormatSQLFirebird.Form1.resources
+C:\Users\logan\Documents\Client Work\SM\WIP stuff\FirebirdSQLFormatter\obj\Debug\FormatSQLFirebird.Properties.Resources.resources
+C:\Users\logan\Documents\Client Work\SM\WIP stuff\FirebirdSQLFormatter\obj\Debug\FormatSQLFirebird.csproj.GenerateResource.Cache
+C:\Users\logan\Documents\Client Work\SM\WIP stuff\FirebirdSQLFormatter\obj\Debug\FormatSQLFirebird.exe
+C:\Users\logan\Documents\Client Work\SM\WIP stuff\FirebirdSQLFormatter\obj\Debug\FormatSQLFirebird.pdb
